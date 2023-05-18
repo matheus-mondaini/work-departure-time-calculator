@@ -1,0 +1,15 @@
+C:\Users\mondaini\Documents\VS Code\csharp\Work_Departure_Time_Calculator\bin\Debug\net7.0\Work_Departure_Time_Calculator.exe
+C:\Users\mondaini\Documents\VS Code\csharp\Work_Departure_Time_Calculator\bin\Debug\net7.0\Work_Departure_Time_Calculator.deps.json
+C:\Users\mondaini\Documents\VS Code\csharp\Work_Departure_Time_Calculator\bin\Debug\net7.0\Work_Departure_Time_Calculator.runtimeconfig.json
+C:\Users\mondaini\Documents\VS Code\csharp\Work_Departure_Time_Calculator\bin\Debug\net7.0\Work_Departure_Time_Calculator.dll
+C:\Users\mondaini\Documents\VS Code\csharp\Work_Departure_Time_Calculator\bin\Debug\net7.0\Work_Departure_Time_Calculator.pdb
+C:\Users\mondaini\Documents\VS Code\csharp\Work_Departure_Time_Calculator\obj\Debug\net7.0\Work_Departure_Time_Calculator.csproj.AssemblyReference.cache
+C:\Users\mondaini\Documents\VS Code\csharp\Work_Departure_Time_Calculator\obj\Debug\net7.0\Work_Departure_Time_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mondaini\Documents\VS Code\csharp\Work_Departure_Time_Calculator\obj\Debug\net7.0\Work_Departure_Time_Calculator.AssemblyInfoInputs.cache
+C:\Users\mondaini\Documents\VS Code\csharp\Work_Departure_Time_Calculator\obj\Debug\net7.0\Work_Departure_Time_Calculator.AssemblyInfo.cs
+C:\Users\mondaini\Documents\VS Code\csharp\Work_Departure_Time_Calculator\obj\Debug\net7.0\Work_Departure_Time_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mondaini\Documents\VS Code\csharp\Work_Departure_Time_Calculator\obj\Debug\net7.0\Work_Departure_Time_Calculator.dll
+C:\Users\mondaini\Documents\VS Code\csharp\Work_Departure_Time_Calculator\obj\Debug\net7.0\refint\Work_Departure_Time_Calculator.dll
+C:\Users\mondaini\Documents\VS Code\csharp\Work_Departure_Time_Calculator\obj\Debug\net7.0\Work_Departure_Time_Calculator.pdb
+C:\Users\mondaini\Documents\VS Code\csharp\Work_Departure_Time_Calculator\obj\Debug\net7.0\Work_Departure_Time_Calculator.genruntimeconfig.cache
+C:\Users\mondaini\Documents\VS Code\csharp\Work_Departure_Time_Calculator\obj\Debug\net7.0\ref\Work_Departure_Time_Calculator.dll
